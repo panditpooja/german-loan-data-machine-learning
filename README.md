@@ -57,12 +57,12 @@ To reproduce the analysis and results:
 
 1. Ensure Python 3.10 installed on the system.
 2. Install the required Python libraries using the command:
-```
-`pip install _____` 
-```
-Here the _____ must be replaced with the library name mentioned used in my python code
-5. Run the Python scripts in the order same as that of my python file (.ipynb)
-6. Refer the generated report (Final_Report.pdf) to understand the project implementation and for more details.
+   ```
+   `pip install _____` 
+   ```
+   Here the _____ must be replaced with the library name mentioned used in my python code 
+3. Run the Python scripts in the order same as that of my python file (.ipynb)
+4. Refer the generated report (Final_Report.pdf) to understand the project implementation and for more details.
 
 Conclusion:
 -----------
